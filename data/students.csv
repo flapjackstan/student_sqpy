@@ -1,0 +1,13 @@
+FirstName,LastName,GPA,Major,FacultyAdvisor,isDeleted
+johnnie,walker,3.3,fermentation,mac,0
+jack,daniels,3.1,fermentation,dennis,0
+jose,cuervo,3.5,fermentation,frank,0
+john,mayer,2.9,music,king,0
+jack,johnson,4,music,frank,0
+samuel,adams,2.1,fermentation,charlie,0
+zapp,roger,2.7,music,king,0
+ricky,bobby,1.6,physics,charlie,0
+jesse,pinkman,1,chemistry,heisenburg,0
+gus,fring,4,business,dennis,0
+john,bonham,3.3,music,mac,0
+snoop,dogg,2.6,chemistry,heisenburg,0
