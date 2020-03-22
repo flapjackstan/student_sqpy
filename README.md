@@ -3,7 +3,7 @@
 <li>a. Elmer Camargopena</li>
 <li>c. camargop@chapman.edu</li>
 <li>d. CPSC 408 Section 1</li>
-<li>e. Project 1</li>
+<li>e. Assignment 2</li>
 </ul>
 
 ### No known errors at this time
